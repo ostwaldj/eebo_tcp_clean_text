@@ -1,0 +1,3 @@
+processed dummy
+
+This empty folder is needed for the code to put intermediate files in.
