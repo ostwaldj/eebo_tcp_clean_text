@@ -1,0 +1,2 @@
+This file left blank.
+Output folder needed for code to save results.
