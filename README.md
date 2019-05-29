@@ -1,4 +1,4 @@
-# eebo_tcp_clean_text
+# eebo_tcp_clean_text v1.6
 Jupyter notebook to clean EEBO-TCP full-text document
 
 Text cleaning notebook for Early English Books Online - Text Creation Partnership texts. Can be used as basis for cleaning any full-text document.
